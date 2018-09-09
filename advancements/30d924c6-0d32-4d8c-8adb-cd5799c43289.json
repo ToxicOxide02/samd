@@ -1050,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2018-09-09 18:09:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2018-09-08 23:02:28 +0200"
@@ -1293,6 +1299,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-09-09 15:21:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2018-09-09 18:09:26 +0200"
     },
     "done": true
   },
